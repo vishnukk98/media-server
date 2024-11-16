@@ -1,0 +1,56 @@
+{
+  "allVideos": [
+    {
+      "id": "7",
+      "caption": "TURBO",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGIfjEO4bcHg9ZR8pj0fiKi7D-fh5xL-z-jQ&s",
+      "link": "https://www.youtube.com/embed/LOE8ESPIMpE"
+    },
+    {
+      "id": "8",
+      "caption": "PREMAM",
+      "url": "https://a10.gaanacdn.com/gn_img/albums/ZaP374RWDy/aP37XB2xWD/size_m.webp",
+      "link": "https://www.youtube.com/embed/0G2VxhV_gXM"
+    }
+  ],
+  "history": [
+    {
+      "caption": "ARM",
+      "link": "https://www.youtube.com/embed/M-yqIcuVNe8",
+      "timeStamp": "11/11/2024, 11:05:28 PM",
+      "id": 1
+    },
+    {
+      "caption": "AAVESHAM",
+      "link": "https://www.youtube.com/embed/M-yqIcuVNe8",
+      "timeStamp": "11/11/2024, 11:05:31 PM",
+      "id": 2
+    },
+    {
+      "caption": "AAVESHAM",
+      "link": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "11/13/2024, 03:39:10 PM",
+      "id": 3
+    },
+    {
+      "caption": "AAVESHAM",
+      "link": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "11/14/2024, 11:34:19 AM",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "movie",
+      "allVideos": [
+        {
+          "id": "7",
+          "caption": "TURBO",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGIfjEO4bcHg9ZR8pj0fiKi7D-fh5xL-z-jQ&s",
+          "link": "https://www.youtube.com/embed/LOE8ESPIMpE"
+        }
+      ]
+    }
+  ]
+}
